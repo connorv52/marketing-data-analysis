@@ -14,3 +14,8 @@ Shopverge, a fictional online retail company, is facing declining customer engag
 
 ## Key Metrics
 
+- **Conversion Rate**: Percentage of website visitors who make a purchase
+- **Customer Engagement**: Level of interaction with marketing content (clicks, likes, comments)
+- **Average Order Value**: Average amount spent by a customer per transaction
+- **Customer Feedback Score**: Average rating from customer reviews
+
