@@ -38,6 +38,7 @@ Shopverge, a fictional online retail company, is facing declining customer engag
 ```
 /marketing-data-analysis
 │
+├── /docs # Project documentation (Excel, PDFs, etc.)
 ├── /sql # SQL queries
 ├── /python # Python scripts and notebooks
 ├── /powerbi # Power BI report files
