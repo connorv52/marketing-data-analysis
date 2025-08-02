@@ -1,2 +1,8 @@
 # marketing-data-analysis
-Analyzing marketing performance and customer behavior using SQL, Power BI, and Python to uncover drivers of declining engagement and conversions for an online retailer.
+
+# Shopverge Marketing & Sales Analysis
+
+## Overview
+
+Shopverge, a fictional online retail company, is facing declining customer engagement and conversion rates despite increased investment in online marketing. This project analyzes customer behavior, campaign performance, and customer feedback using SQL, Power BI, and Python to identify the drivers of this decline and recommend actionable improvements.
+
