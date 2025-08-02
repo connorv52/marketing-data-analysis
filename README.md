@@ -36,7 +36,7 @@ Shopverge, a fictional online retail company, is facing declining customer engag
 ## Project Structure
 
 ```
-/shopverge-marketing-analysis
+/marketing-data-analysis
 │
 ├── /sql # SQL queries for data extraction and transformation
 ├── /python # Python scripts for sentiment analysis
