@@ -27,3 +27,20 @@ Shopverge, a fictional online retail company, is facing declining customer engag
 - **Customers Table**: Provides additional information about customers
 - **Geography Table**: Provides additional geographic information about customers
 - **Products Table**: Provides additional information about products
+
+## Techincal Tools Used
+- **Microsoft SQL Server/SQL Server Management Studio** – Data extraction, cleaning, standardization, and transformation
+- **Power BI** – Interactive dashboards and KPI visualization
+- **Python** – Sentiment analysis and other applicable statistical analyses
+
+## Project Structure
+
+/shopverge-marketing-analysis
+│
+├── /sql # SQL queries for data extraction and transformation
+├── /python # Python scripts for sentiment analysis
+├── /powerbi # Power BI report files
+├── /data
+│ ├── /raw # Original dataset files
+│ └── /cleaned # Cleaned/exported data used in analysis
+└── README.md # Project overview and structure
