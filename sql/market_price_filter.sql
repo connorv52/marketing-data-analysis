@@ -3,7 +3,7 @@ FROM dbo.products -- Table containing product data
 
 -- ***********************
 -- ***********************
-	
+
 -- Query to categorize products based on price
 SELECT
 	ProductID, -- Selects the unique identifier for each product
@@ -19,5 +19,6 @@ SELECT
 
 FROM 
 	dbo.products; 
+
 
 
