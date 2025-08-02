@@ -19,3 +19,11 @@ Shopverge, a fictional online retail company, is facing declining customer engag
 - **Average Order Value**: Average amount spent by a customer per transaction
 - **Customer Feedback Score**: Average rating from customer reviews
 
+## Data Sources
+
+- **Customer Journey Table**: Tracks customer movements through the website to analyze the conversion funnel
+- **Engagement Data Table**: Measures engagement with different types of content
+- **Customer Reviews Table**: Analyzes customer feedback to identify common themes and sentiment
+- **Customers Table**: Provides additional information about customers
+- **Geography Table**: Provides additional geographic information about customers
+- **Products Table**: Provides additional information about products
