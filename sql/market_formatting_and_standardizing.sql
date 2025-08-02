@@ -16,4 +16,5 @@ SELECT
 	Likes,
 	FORMAT(CONVERT(DATE, EngagementDate), 'MM/dd/yyyy') AS EngagementDate -- Converts and formats the date as mm.dd.yyyy
 FROM
+
 	dbo.engagement_data;
