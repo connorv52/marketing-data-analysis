@@ -38,11 +38,10 @@ Shopverge, a fictional online retail company, is facing declining customer engag
 ```
 /marketing-data-analysis
 │
-├── /sql # SQL queries for data extraction and transformation
-├── /python # Python scripts for sentiment analysis
+├── /sql # SQL queries
+├── /python # Python scripts and notebooks
 ├── /powerbi # Power BI report files
 ├── /data
-│ ├── /raw # Original dataset files
-│ └── /cleaned # Cleaned/exported data used in analysis
+│
 └── README.md # Project overview and structure
 ```
