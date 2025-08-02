@@ -35,6 +35,7 @@ Shopverge, a fictional online retail company, is facing declining customer engag
 
 ## Project Structure
 
+```
 /shopverge-marketing-analysis
 │
 ├── /sql # SQL queries for data extraction and transformation
@@ -44,3 +45,4 @@ Shopverge, a fictional online retail company, is facing declining customer engag
 │ ├── /raw # Original dataset files
 │ └── /cleaned # Cleaned/exported data used in analysis
 └── README.md # Project overview and structure
+```
