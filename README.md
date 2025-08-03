@@ -42,8 +42,8 @@ Due to the comprehensive scope of this project and the structure of the source d
 ├── /docs # Project documentation (Excel, PDFs, etc.)
 ├── /sql # SQL queries
 ├── /python # Python scripts and notebooks
-├── /powerbi # Power BI report files
-├── /data
+├── /powerbi # Power BI report files (.pbix)
+├── /data # SQL Server .bak backup file
 │
 └── README.md # Project overview and structure
 ```
