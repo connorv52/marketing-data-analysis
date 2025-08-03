@@ -6,6 +6,8 @@
 
 Shopverge, a fictional online retail company, is facing declining customer engagement and conversion rates despite increased investment in online marketing. To combat this failing ROI, this project thoroughly analyzes customer behavior, campaign performance, and customer feedback using SQL, Power BI, and Python to identify the drivers of this decline and recommend actionable improvements for the firm to leverage.
 
+Due to the comprehensive scope of this project and the structure of the source data, which is maintained in a SQL Server .bak backup containing multiple relational tables, I am unable to provide the dataset in a consolidated CSV format. Instead, I've included relevant SQL queries and the Power BI data model in addition to the .bak file to give a better understanding of the source data. The Power BI data model and schema can be found in /marketing-data-analysis/docs/marketing_analysis_powerbi_schema.png
+
 ## Objectives
 
 - **Increase Conversion Rates**: Identify factors impacting the conversion rate and provide relevant recommendations to improve it. For example, highlighting key stages where visitors drop off and thereby finding ways to optimize the conversion funnel.
