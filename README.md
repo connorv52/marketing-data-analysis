@@ -1,4 +1,4 @@
-# marketing-data-analysis
+# marketing-and-customer-insights-analytics
 
 ## Shopverge Marketing & Sales Analysis 📈
 
